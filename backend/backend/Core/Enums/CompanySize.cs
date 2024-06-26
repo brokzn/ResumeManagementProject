@@ -2,8 +2,8 @@
 {
     public enum CompanySize
     {
-        Small, 
-        Medium, 
-        Large
+        Маленькая, 
+        Средняя, 
+        Большая
     }
 }
